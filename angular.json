@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "listaEjercicios"
+  "defaultProject": "listaEjercicios",
+  "cli": {
+    "analytics": false
+  }
 }
